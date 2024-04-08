@@ -1,0 +1,10 @@
+services:
+  ASF:
+    image: justarchi/archisteamfarm
+    container_name: ASF
+    env_file: .env
+    restart: always
+    volumes:
+      - ./config:/app/config
+    ports:
+      - "1242:1242"

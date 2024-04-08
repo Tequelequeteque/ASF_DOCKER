@@ -1,0 +1,4 @@
+*.crash
+*.db
+*.cache
+.env

@@ -1,0 +1,12 @@
+{
+  "Enabled": true,
+  "FarmingOrders": [
+    9
+  ],
+  "FarmingPreferences": 2,
+  "HoursUntilCardDrops": 1,
+  "PasswordFormat": 3,
+  "SteamLogin": "dendrio",
+  "SteamPassword": "BOT_FARM_PASSWORD",
+  "TradeCheckPeriod": 0
+}
